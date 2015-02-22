@@ -1,7 +1,5 @@
 # Getting and Cleaning Data
-Purpose is to collect, work with, and clean a data set.
-
-Original dataset from 
+To collect, work with, and clean a data set from:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 # Files in this Repo
@@ -19,6 +17,7 @@ Create one R script called run_analysis.R that does the following.
 
 # Steps for this project
 - Step1: 
+
 	— Download and load test and training files
 	- Combine test and training files into a data frame including subject, label and the actual data
 
@@ -37,4 +36,4 @@ Create one R script called run_analysis.R that does the following.
 - Step5:
 	- create a tidy dataset with the average of each variable for each activity and each subject
 
-- Step6: - Write tidy data into a text file with row.names = FALSE
+- Step6: - Write tidy data into a text file with row.names = FALSE and header = TRUE
