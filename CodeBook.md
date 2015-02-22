@@ -14,12 +14,12 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 	subject number from 1 to 30. Unique identifier assigned to each subject
 - label
 	Activity label	6..18
-                        - “WALKING"
-                        - “WALKING_UPSTAIRS"
-                        - “WALKING_DOWNSTAIRS"
-                        - “SITTING"
-                        - "STANDING"
-                        - "LAYING"
+		“WALKING"
+		“WALKING_UPSTAIRS"
+		“WALKING_DOWNSTAIRS"
+		“SITTING"
+		"STANDING"
+		"LAYING"
 
 Note: Below variables please refer to next session “Measurment”
 - tbodyacc_mean_x
