@@ -17,8 +17,7 @@ Create one R script called run_analysis.R that does the following.
 
 # Steps for this project
 - Step1: 
-
-	— Download and load test and training files
+	- Download and load test and training files
 	- Combine test and training files into a data frame including subject, label and the actual data
 
 - Step2: 
